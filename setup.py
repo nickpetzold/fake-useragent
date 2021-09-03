@@ -24,7 +24,7 @@ def read(*parts):
 
 
 setup(
-    name='fake-useragent',
+    name='cfcinsight-fake-useragent',
     version=get_version(),
     author='hellysmile@gmail.com',
     author_email='hellysmile@gmail.com',
